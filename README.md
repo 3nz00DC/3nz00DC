@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://3nz00dc.github.io/3n-shortener/assets/img/logo.png" width="120" alt="3n logo">
   <h1>3n - Soluções em Infraestrutura & Backend</h1>
-  <p>Especialista em PHP, Node.js e Infraestrutura para Minecraft (3n Host / VibeMC).</p>
+  <p>Especialista em PHP, Node.js e Infraestrutura para Minecraft (3n Host).</p>
   
   <a href="https://dc.gg/3nhost">
     <img src="https://img.shields.io/discord/SEU_ID_DO_DISCORD?color=7289DA&label=Discord&logo=discord&style=flat-square" alt="Discord">
