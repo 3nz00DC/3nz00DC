@@ -1,81 +1,81 @@
-👋 Olá, eu sou o 3n ou 3nz
+<div align="center">
+  <img src="https://3nz00dc.github.io/3n-shortener/assets/img/logo.png" width="120" alt="3n logo">
+  <h1>3n - Soluções em Infraestrutura & Backend</h1>
+  <p>Especialista em PHP, Node.js e Infraestrutura para Minecraft (3n Host / VibeMC).</p>
+  
+  <a href="https://discord.gg/vibemc">
+    <img src="https://img.shields.io/discord/SEU_ID_DO_DISCORD?color=7289DA&label=Discord&logo=discord&style=flat-square" alt="Discord">
+  </a>
+  <a href="#projetos">
+    <img src="https://img.shields.io/badge/Projetos-Full%20Stack-blue?style=flat-square" alt="Projetos">
+  </a>
+  <a href="https://3nhost.com">
+    <img src="https://img.shields.io/badge/Empresa-3n%20Host-00c853?style=flat-square" alt="Empresa">
+  </a>
+</div>
 
-Plugin Developer | Minecraft Server Architect | Backend Enthusiast | Marketing
+---
 
-🖋️ Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Desenvolvedor focado no ecossistema Minecraft (Spigot/Paper) e criação de plugins customizados, sistemas de economia e infraestrutura de servidores. Trabalho no desenvolvimento de soluções para servidores multiplayer, criando sistemas otimizados para performance, automação e experiência do jogador. Também desenvolvo projetos próprios como a VibeMC Plugins, voltada para criação e venda de plugins customizados.
+Sou desenvolvedor Full Stack com foco em performance e escalabilidade de backend. Como fundador da **3n Host** e desenvolvedor na **VibeMC**, domino o ciclo completo de um produto digital: da lógica de código (PHP/Java/Node) à implantação e monitoramento de infraestrutura Linux.
 
-Foco atual:
+### 🔥 Stack Tecnológica
 
-Desenvolvimento de plugins para Spigot/Paper 1.8.8 Sistemas de economia, automação e gameplay Arquitetura de servidores Minecraft Integração com APIs e sistemas externos
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | PHP 8.x (PDO), Node.js (Socket.io), Java (Plugins Spigot) |
+| **Frontend** | HTML5, CSS3, JavaScript (Vanilla/Supabase JS) |
+| **Banco de Dados** | MySQL, MariaDB, Supabase (PostgreSQL) |
+| **Infraestrutura** | Linux (Debian/Ubuntu), Nginx, Apache, Docker, Git |
 
-🎓 Formação
+---
 
-Estudante de Tecnologia e Desenvolvimento de Software | Expecialista em Marketing Digital
+<h2 id="projetos">🚀 Projetos em Destaque (Full Stack)</h2>
 
-Foco em:
+O foco destes projetos é resolver problemas reais de infraestrutura e gestão de tráfego.
 
-Programação Arquitetura de sistemas Infraestrutura de servidores Automação
+### 1. 🔗 3n Shortener - Gestão de Links & Tráfego
 
-🛠️ Stack Tecnológica
+Um sistema completo de encurtamento de URLs, inspirado na estética e funcionalidade do **dc.gg**, mas focado no ecossistema da 3n Host.
 
-Categoria Tecnologias
+<div align="center">
+  <img src="https://3nz00dc.github.io/3n-shortener/screenshots/dashboard-code.png" width="90%" alt="3n Shortener CodeSnap">
+</div>
 
-Linguagens Java, JavaScript
+#### ✨ Diferenciais Técnicos:
+* **Lógica "tipo dc.gg":** Sistema híbrido. Permite redirecionamento direto ou exibição de uma **página de redirecionamento estilizada** (landing page de espera).
+* **Banco de Dados Externo (Híbrido):** O código frontend (HTML/JS) roda no **GitHub Pages**, mas os links são salvos e buscados em tempo real no **Supabase** (PostgreSQL gratuito), sem precisar de PHP no servidor final.
+* **Segurança:** Implementação de JWT (JSON Web Tokens) para proteção da área administrativa.
+* **Painel Administrativo:** Visual moderno (Dark Theme) com contagem de cliques em tempo real.
 
-Minecraft Dev Spigot API, Paper API, Bukkit
+<div align="center">
+  <a href="https://3nz00dc.github.io/3n-shortener/">
+    <img src="https://img.shields.io/badge/Ver%20Projeto%20Online-5865F2?style=for-the-badge&logo=rocket" alt="Ver Projeto Online">
+  </a>
+  <a href="https://github.com/3nz00dc/3n-shortener">
+    <img src="https://img.shields.io/badge/Ver%20Código%20Fonte-1a1a24?style=for-the-badge&logo=github" alt="Ver Código Fonte">
+  </a>
+</div>
 
-Ferramentas Maven, Git, IntelliJ IDEA
+---
 
-Banco de Dados MySQL
+### 2. 🟢 (Em Breve) Monitor de Status de Servidores (Node.js)
+Um microserviço em Node.js que faz pings periódicos em IPs e URLs (como servidores de Minecraft 3n Host) e envia alertas imediatos via Webhook para o Discord caso algum serviço caia.
 
-Infraestrutura Linux, Pterodactyl Panel, Crafty Controller
+#### ✨ Foco em:
+* Asincronismo com Node.js (axios).
+* Integração com APIs externas (Discord Webhooks).
+* Logs centralizados.
 
-🚀 Projetos & Experiência
+---
 
-🔹 VibeMC Plugins
+## 📞 Contato & Redes
 
-Loja e projeto de desenvolvimento de plugins customizados para servidores Minecraft.
+* **Discord:** o3nz#0000 (ou entre na [3NHost](https://dc.gg/3nhost))
+* **Hospedagem:** [3n Host](https://3nhost.com)
+* **Email:** contato@3nhost.com
 
-Plugins desenvolvidos:
-
-VibeCash – Sistema de gemas/cash com comandos administrativos
-
-VibeAutoSell – Venda automática de minérios com GUI e multiplicadores VIP
-
-PescaAFK – Sistema de pesca automática para servidores
-
-VibeBank – Sistema de banco com GUI e gerenciamento de saldo
-
-🔹 Infraestrutura de Servidores
-
-Experiência com:
-
-Configuração de Pterodactyl Panel
-
-Gerenciamento de nodes e wings
-
-Uso de subdomínios para servidores
-
-Deploy e administração de servidores Minecraft
-
-🎮 Especialidades
-
-Desenvolvimento de plugins Spigot/Paper
-
-Sistemas de economia e automação
-
-GUIs customizadas
-
-Integração com PlaceholderAPI
-
-Estruturação de servidores Minecraft
-
-📫 Contato
-
-Se quiser conversar sobre plugins, servidores Minecraft ou projetos, pode me chamar.
-
-💬 Discord: _enzoodc
-
-🌐 Projeto: VibeMC Plugins
+---
+  <p>© 2026 3n / 3n Host. Todos os direitos reservados.</p>
+</div>
