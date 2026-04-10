@@ -4,7 +4,7 @@
   <p>Especialista em PHP, Node.js e Infraestrutura para Minecraft (3n Host).</p>
   
   <a href="https://dc.gg/3nhost">
-    <img src="https://img.shields.io/discord/SEU_ID_DO_DISCORD?color=7289DA&label=Discord&logo=discord&style=flat-square" alt="Discord">
+    <img src="https://img.shields.io/discord/1460786822299910350?color=7289DA&label=Discord&logo=discord&style=flat-square" alt="Discord">
   </a>
   <a href="#projetos">
     <img src="https://img.shields.io/badge/Projetos-Full%20Stack-blue?style=flat-square" alt="Projetos">
@@ -73,8 +73,8 @@ Um microserviço em Node.js que faz pings periódicos em IPs e URLs (como servid
 ## 📞 Contato & Redes
 
 * **Discord:** o3nz#0000 (ou entre na [3NHost](https://dc.gg/3nhost))
-* **Hospedagem:** [3n Host](https://3nhost.com)
-* **Email:** contato@3nhost.com
+* **Hospedagem:** [3n Host](https://dc.gg/3nhost)
+* **Email:** support@3nhost.com
 
 ---
   <p>© 2026 3n / 3n Host. Todos os direitos reservados.</p>
