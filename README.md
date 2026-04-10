@@ -40,7 +40,7 @@ O foco destes projetos é resolver problemas reais de infraestrutura e gestão d
 Um sistema completo de encurtamento de URLs, inspirado na estética e funcionalidade do **dc.gg**, mas focado no ecossistema da 3n Host.
 
 <div align="center">
-  <img src="(https://github.com/3nz00DC/3n-shortener/blob/beta/r.png?raw=true)" width="90%">
+  <img src="(https://github.com/3nz00DC/3n-shortener/blob/beta/r.png?raw=true)" width="90%" alt="3n Shortener CodeSnap" >
 </div>
 
 #### ✨ Diferenciais Técnicos:
